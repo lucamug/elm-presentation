@@ -1,5 +1,5 @@
 ### [Demo](https://lucamug.github.io/elm-presentation)
-### [Demo with Time-traveling Debugger](https://lucamg.github.io/elm-presentation/index-with-time-traveling.html)
+### [Demo with Time-traveling Debugger](https://lucamug.github.io/elm-presentation/index-with-time-traveling.html)
 
 # How it works
 
