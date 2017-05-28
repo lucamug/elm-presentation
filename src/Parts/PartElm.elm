@@ -81,7 +81,7 @@ slide3Y =
 {-
    Elm Colors:
 
-   Orange: #f57900, Dark: #7c3d00 (124 61 0)
+   Orange: #f57900 245 121 0, Dark: #7c3d00 (124 61 0)
    Green: #73d216, Dark: #264706 (38 71 6)
    Light Blue: #729fcf (114 159 207): Dark #3b5168 (59 81 104)
    Blue: #204a87
@@ -162,8 +162,8 @@ frame5 =
 
 
 world =
-    [ image ( 131.6, 72.6 ) ( -220, 0 ) "images/maintainability-usability.png"
-    , image ( 80.0, 50.0 ) ( -220, 70 ) "images/performances.png"
+    [ image ( 131.6, 72.6 ) ( -220, 0 ) "images/maintainability-usability-reversed.png"
+    , image ( 80.0, 50.0 ) ( -220, 70 ) "images/performances-reversed.png"
     , image ( (1360 / 1000), (574 / 1000) ) ( 2.9, -1.25 ) "images/runtime-error.png"
     , image ( (1208 / 1000), (468 / 1000) ) ( 10.7, -2.8 ) "images/compiler-error.png"
     ]

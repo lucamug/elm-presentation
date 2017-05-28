@@ -7,7 +7,7 @@ import Dive.ElmLogo exposing (logo)
 
 
 slide0 =
-    [ image ( (316 / 400), (90 / 400) ) ( -1.8, 0.9 ) "images/company-logo.png"
+    [ image ( (316 / 400), (90 / 400) ) ( -1.6, 0.9 ) "images/company-logo.png"
     , logo ( 0, 0 ) ( 0.9, 0.9 )
     , text ( 0, -0.7 ) "A quick introduction to Elm*"
         |> color (Color.rgb 114 159 207)
