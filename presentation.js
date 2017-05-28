@@ -14585,7 +14585,7 @@ var _lucamug$elm_presentation$Parts_PartIntro$slide0 = {
 	_0: A3(
 		_myrho$dive$Dive$image,
 		{ctor: '_Tuple2', _0: 316 / 400, _1: 90 / 400},
-		{ctor: '_Tuple2', _0: -1.8, _1: 1},
+		{ctor: '_Tuple2', _0: -1.8, _1: 0.9},
 		'images/company-logo.png'),
 	_1: {
 		ctor: '::',
@@ -14607,11 +14607,11 @@ var _lucamug$elm_presentation$Parts_PartIntro$slide0 = {
 							_lucamug$elm_presentation$Params$font,
 							A2(
 								_myrho$dive$Dive$color,
-								_elm_lang$core$Color$black,
+								A3(_elm_lang$core$Color$rgb, 114, 159, 207),
 								A2(
 									_myrho$dive$Dive$text,
 									{ctor: '_Tuple2', _0: 0, _1: -0.7},
-									'A quick introduction to Elm')))))),
+									'A quick introduction to Elm*')))))),
 			_1: {
 				ctor: '::',
 				_0: A2(
@@ -14626,10 +14626,10 @@ var _lucamug$elm_presentation$Parts_PartIntro$slide0 = {
 								_lucamug$elm_presentation$Params$font,
 								A2(
 									_myrho$dive$Dive$color,
-									_elm_lang$core$Color$black,
+									A3(_elm_lang$core$Color$rgb, 245, 121, 0),
 									A2(
 										_myrho$dive$Dive$text,
-										{ctor: '_Tuple2', _0: 0, _1: -1.2},
+										{ctor: '_Tuple2', _0: 0, _1: -0.9},
 										'Development Unit')))))),
 				_1: {
 					ctor: '::',
@@ -14648,9 +14648,29 @@ var _lucamug$elm_presentation$Parts_PartIntro$slide0 = {
 										A3(_elm_lang$core$Color$rgb, 140, 140, 140),
 										A2(
 											_myrho$dive$Dive$text,
-											{ctor: '_Tuple2', _0: 0, _1: -1.4},
-											'Click or press the left/right arrow keys to start')))))),
-					_1: {ctor: '[]'}
+											{ctor: '_Tuple2', _0: 0, _1: -1.33},
+											'* made with Elm')))))),
+					_1: {
+						ctor: '::',
+						_0: A2(
+							_myrho$dive$Dive$lineHeight,
+							1.2,
+							_myrho$dive$Dive$centered(
+								A2(
+									_myrho$dive$Dive$height,
+									6.0e-2,
+									A2(
+										_myrho$dive$Dive$fontFamily,
+										_lucamug$elm_presentation$Params$font,
+										A2(
+											_myrho$dive$Dive$color,
+											A3(_elm_lang$core$Color$rgb, 140, 140, 140),
+											A2(
+												_myrho$dive$Dive$text,
+												{ctor: '_Tuple2', _0: 0, _1: -1.41},
+												'Click or press the left/right arrow keys to start')))))),
+						_1: {ctor: '[]'}
+					}
 				}
 			}
 		}
