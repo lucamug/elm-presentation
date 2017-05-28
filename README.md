@@ -3,7 +3,7 @@
 
 # How it works
 
-Check out [the full writeup](https://medium.com)!
+Check out [the full article](https://medium.com/@l.mugnaini/a-ready-to-use-elm-presentation-to-impress-your-colleagues-ee71cac8fe14).
 
 # Getting started
 
